@@ -1,2 +1,4 @@
 web profile mahasiswa tugas matkul web programming
-gaskan cuy
+ada home about education skill contact
+ui dengan bootstrap
+
